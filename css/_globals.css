@@ -3,6 +3,7 @@ body {
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 1.28;
+	/* line-height: 21px; */
 	color: var(--color-white);
 
 	background-image: url(../img/background-sl1.png);
@@ -35,3 +36,4 @@ a {
 h1, h2, h3, h4 {
 	font-weight: 600;
 }
+
